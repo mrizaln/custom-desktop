@@ -1,6 +1,0 @@
-set mouse
-set linenumbers
-#set magic
-set softwrap
-set tabsize 4
-set tabstospaces
